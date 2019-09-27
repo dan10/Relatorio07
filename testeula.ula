@@ -1,5 +1,6 @@
 inicio:
-A=5; B=2;
+A=5;
+B=2;
 An;
 Bn;
 nAeB;
